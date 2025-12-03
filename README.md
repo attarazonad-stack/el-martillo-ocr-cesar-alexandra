@@ -28,14 +28,4 @@ El objetivo principal fue transformar el contenido visual de una página histór
 | **`distribution_chart.png`** | Imagen del gráfico de distribución de tipos de contenido generado por el Notebook. |
 | **`README.md`** | Este archivo. |
 
----
 
-## ⚙️ Tecnologías Utilizadas
-
-* **Python 3**
-* **Pandas** (Para estructuración y limpieza de datos)
-* **Matplotlib** (Para la generación del gráfico sencillo)
-* **API de Claude (Visión/OCR)**: (Mencionado en la tarea como la herramienta de extracción inicial).
-* La página del **15 de Enero de 1916** muestra un fuerte enfoque en la **vida cívica y política local** de Chiclayo y Eten.
-* Existe una presencia significativa de **publicidad** de servicios locales, destacando negocios de **fotografía** y **moda**.
-* Incluso en un periódico local, hay ecos de eventos globales, como la mención a la **Guerra** en la sección de variedades.
